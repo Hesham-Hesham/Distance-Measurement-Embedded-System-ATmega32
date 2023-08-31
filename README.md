@@ -66,7 +66,7 @@ For the full detailed drivers' requirements check [The Project requirements file
 
 ## Usage
 - ### Hardware target
-    In order to run the code on a real hardware target (ARmega32), follow these steps:
+    In order to run the code on a real hardware target (ATmega32), follow these steps:
 1. **Setup**: Connect the components as per the circuit diagram.
 2. **Compile**: Use an appropriate compiler (e.g., AVR GCC) to compile the provided source code.
 3. **Program**: Program the ATmega32 Microcontroller with the compiled binary using a suitable programmer (e.g., AVR ISP).
